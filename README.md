@@ -190,6 +190,7 @@ before you install it.
 | Add-on | What it does | What it sends outside the PC |
 |---|---|---|
 | [PhoneBox Games Tab](https://github.com/lucasaz/phonebox-games-tab) (Windows) | A Games page with live FPS, cover art and play time, through the push API and a Custom HTML widget | Store / Xbox apps' package names, with the Windows display language and region, to the Microsoft Store catalog (`displaycatalog.mp.microsoft.com`); the phone loads cover images from Microsoft's image servers and from Steam's, whose URL contains the game's Steam app ID |
+| [PhoneBox for GNOME](https://github.com/Gabrielmororo180/phonebox-gnome) (Linux, GNOME) | CPU and the Claude session quota in the GNOME top bar; a click opens the panel, with page tabs, right below it. Also works as a desktop widget | Nothing |
 
 ## Security & privacy
 
